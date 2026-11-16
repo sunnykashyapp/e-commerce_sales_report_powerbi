@@ -2,6 +2,8 @@
 
 A 3-page Power BI report that shows where an online retailer makes and loses money across sales, returns, promotions and sales channels. Built for **[CHALLENGE NAME, MONTH YEAR]** using the dataset provided by the challenge.
 
+[Download the .pbix file](https://drive.google.com/drive/folders/1VMjA65jz1Pj1I8hS1Nf9rHg-A_wL6a-x?usp=drive_link) | [View the PDF](ecommerce_dashboard.pdf)
+
 ![Page 1 - Sales and Profit](screenshots/page1-sales-profit.png)
 
 ## Business questions
@@ -93,7 +95,7 @@ ecommerce-profitability-powerbi/
     └── page3-promotions-channels.png
 ```
 
-The `.pbix` file is 53 MB, which is too large for this repo. Download it here: [GOOGLE DRIVE LINK]
+The `.pbix` file is 53 MB, which is too large for this repo. Use the download link at the top of this page.
 
 ## How to open
 
@@ -101,7 +103,7 @@ The `.pbix` file is 53 MB, which is too large for this repo. Download it here: [
 2. Open it in Power BI Desktop (free from Microsoft).
 3. If Power BI asks about the data source, point it to the challenge dataset from the link above.
 
-Or open `dashboard.pdf` to see all pages.
+Or open `ecommerce_dashboard.pdf` to see all pages.
 
 ## Notes
 
